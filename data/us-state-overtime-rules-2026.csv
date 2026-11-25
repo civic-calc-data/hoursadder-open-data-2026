@@ -1,0 +1,52 @@
+state,code,weekly_threshold_hours,daily_threshold_hours,double_time_rule,min_overtime_rate_usd,state_overtime_notes,labor_office_url,dol_updated
+Alabama,AL,FLSA (40),None,,10.88,,https://www.labor.alabama.gov/,2026-11-05
+Alaska,AK,40,8,,21.00,Daily and weekly overtime does not apply to employers of fewer than 4 employees. An approved flexible plan can set a 10-hour day.,https://labor.alaska.gov/,2026-11-05
+Arizona,AZ,FLSA (40),None,,22.73,,https://www.azica.gov/,2026-11-05
+Arkansas,AR,40,None,,16.50,,https://labor.arkansas.gov/,2026-11-05
+California,CA,40,8,After 12 hr/day; >8 hr on 7th consecutive day,25.35,"Double time after 12 hours in a day. On the 7th day of work in a workweek: first 8 hours at 1.5x, over 8 at 2x.",https://www.dir.ca.gov/dlse/,2026-11-05
+Colorado,CO,40,12,,22.74,Daily overtime after 12 hours in a workday or 12 consecutive hours.,https://cdle.colorado.gov/dlss,2026-11-05
+Connecticut,CT,40,None,,25.41,Restaurants and hotel restaurants pay 1.5x the minimum rate on the 7th consecutive day.,https://portal.ct.gov/dol,2026-11-05
+Delaware,DE,FLSA (40),None,,22.50,,https://labor.delaware.gov/,2026-11-05
+District of Columbia,DC,40,None,,27.60,,https://does.dc.gov/,2026-11-05
+Florida,FL,FLSA (40),None,,22.50,,https://www.myfloridalicense.com/DBPR/,2026-11-05
+Georgia,GA,FLSA (40),None,,10.88,,https://dol.georgia.gov/,2026-11-05
+Hawaii,HI,40,None,,24.00,"Employees guaranteed $4,000 or more a month are exempt from state minimum wage and overtime law.",https://labor.hawaii.gov/,2026-11-05
+Idaho,ID,FLSA (40),None,,10.88,,https://www.labor.idaho.gov/,2026-11-05
+Illinois,IL,40,None,,22.50,,https://labor.illinois.gov/,2026-11-05
+Indiana,IN,40,None,,10.88,,https://www.in.gov/dol/,2026-11-05
+Iowa,IA,FLSA (40),None,,10.88,,https://dial.iowa.gov/,2026-11-05
+Kansas,KS,FLSA (40),None,,10.88,,https://www.dol.ks.gov/,2026-11-05
+Kentucky,KY,40,None,,10.88,Employees who work all 7 days of a workweek get 1.5x for hours on the 7th day. This does not apply when the employee may not work over 40 hours in the week.,https://elc.ky.gov/,2026-11-05
+Louisiana,LA,FLSA (40),None,,10.88,,https://www.laworks.net/,2026-11-05
+Maine,ME,40,None,,22.65,,https://www.maine.gov/labor/,2026-11-05
+Maryland,MD,40,None,,22.50,,https://www.labor.maryland.gov/,2026-11-05
+Massachusetts,MA,40,None,,22.50,,https://www.mass.gov/orgs/executive-office-of-labor-and-workforce-development,2026-11-05
+Michigan,MI,40,None,,20.60,,https://www.michigan.gov/leo,2026-11-05
+Minnesota,MN,48,None,,17.12,State law premium starts after 48 hours. FLSA-covered employees still get overtime after 40.,https://www.dli.mn.gov/,2026-11-05
+Mississippi,MS,FLSA (40),None,,10.88,,https://www.mdes.ms.gov/,2026-11-05
+Missouri,MO,40,None,,22.50,Seasonal amusement or recreation businesses pay premium after 52 hours.,https://labor.mo.gov/,2026-11-05
+Montana,MT,40,None,,16.28,,https://dli.mt.gov/,2026-11-05
+Nebraska,NE,FLSA (40),None,,22.50,,https://dol.nebraska.gov/,2026-11-05
+Nevada,NV,40,8,,18.00,Daily overtime after 8 hours applies only to employees earning less than 1.5x the state minimum wage ($18.00 an hour).,https://labor.nv.gov/,2026-11-05
+New Hampshire,NH,40,None,,10.88,,https://dol.nh.gov/,2026-11-05
+New Jersey,NJ,40,None,,23.88,,https://www.nj.gov/labor/,2026-11-05
+New Mexico,NM,40,None,,18.00,,https://www.dws.state.nm.us/,2026-11-05
+New York,NY,40,None,,24.00,Live-in residential workers get premium pay after 44 hours.,https://dol.ny.gov/,2026-11-05
+North Carolina,NC,40,None,,10.88,Seasonal amusement or recreation establishments pay premium after 45 hours.,https://www.labor.nc.gov/,2026-11-05
+North Dakota,ND,40,None,,10.88,,https://www.nd.gov/labor/,2026-11-05
+Ohio,OH,40,None,,16.50,,https://www.com.ohio.gov/,2026-11-05
+Oklahoma,OK,FLSA (40),None,,10.88,,https://oklahoma.gov/labor.html,2026-11-05
+Oregon,OR,40,None,,23.33,"Premium after 10 hours a day in canneries, driers, packing plants, mills, factories and manufacturing (some mills excluded).",https://www.oregon.gov/boli/,2026-11-05
+Pennsylvania,PA,40,None,,10.88,,https://www.pa.gov/agencies/dli,2026-11-05
+Rhode Island,RI,40,None,,24.00,Retail and certain other businesses pay 1.5x for Sunday and holiday work.,https://dlt.ri.gov/,2026-11-05
+South Carolina,SC,FLSA (40),None,,10.88,,https://llr.sc.gov/,2026-11-05
+South Dakota,SD,FLSA (40),None,,17.78,,https://dlr.sd.gov/,2026-11-05
+Tennessee,TN,FLSA (40),None,,10.88,,https://www.tn.gov/workforce,2026-11-05
+Texas,TX,FLSA (40),None,,10.88,,https://www.twc.texas.gov/,2026-11-05
+Utah,UT,FLSA (40),None,,10.88,,https://laborcommission.utah.gov/,2026-11-05
+Vermont,VT,40,None,,21.63,,https://labor.vermont.gov/,2026-11-05
+Virginia,VA,FLSA (40),None,,19.16,,https://doli.virginia.gov/,2026-11-05
+Washington,WA,40,None,,25.70,Premium pay does not apply to employees who request comp time instead.,https://lni.wa.gov/,2026-11-05
+West Virginia,WV,40,None,,13.13,,https://labor.wv.gov/,2026-11-05
+Wisconsin,WI,40,None,,10.88,,https://dwd.wisconsin.gov/,2026-11-05
+Wyoming,WY,FLSA (40),None,,10.88,,https://dws.wyo.gov/,2026-11-05

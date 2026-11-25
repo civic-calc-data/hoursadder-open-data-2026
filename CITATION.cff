@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these datasets in an article, report, or analysis, please cite HoursAdder as below."
+title: "HoursAdder Open Data 2026: US State Minimum Wages and Statutory Overtime Rules Across All 50 States and DC"
+type: dataset
+version: "2026.11"
+date-released: "2026-11-25"
+license: CC-BY-4.0
+url: "https://hoursadder.com/reports/"
+authors:
+  - name: "HoursAdder"
+    website: "https://hoursadder.com/"
+    email: "contact@hoursadder.com"
+keywords:
+  - us-minimum-wage
+  - overtime-rules
+  - flsa
+  - labor-law
+  - payroll
+  - department-of-labor
+  - open-data
+abstract: "Two open CSV datasets compiling 2026 U.S. Department of Labor state minimum wages, spreads above the $7.25 federal floor, statutory 1.5x overtime minimums, and daily/weekly/double-time overtime thresholds for all 50 US states and Washington, D.C."
