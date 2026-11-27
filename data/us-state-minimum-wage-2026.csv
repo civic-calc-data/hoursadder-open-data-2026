@@ -1,6 +1,6 @@
 state,code,state_minimum_wage_usd,effective_minimum_wage_usd,federal_minimum_wage_usd,above_federal_usd,min_overtime_rate_usd,notes,labor_office_url,dol_updated,next_minimum_wage_usd,next_effective_date,next_source_url
 Alabama,AL,,7.25,7.25,0.00,10.88,No state minimum wage law.,https://www.labor.alabama.gov/,2026-11-05,,,
-Alaska,AK,14.00,14.00,7.25,6.75,21.00,,https://labor.alaska.gov/,2026-11-05,15.00,2027-07-01,https://www.akleg.gov/basis/statutes.asp#23.10.065
+Alaska,AK,14.00,14.00,7.25,6.75,21.00,,https://labor.alaska.gov/,2026-11-05,15.00,2027-07-01,https://www.akleg.gov/basis/statutes.asp?media=print&secStart=23.10.065&secEnd=23.10.065
 Arizona,AZ,15.15,15.15,7.25,7.90,22.73,,https://www.azica.gov/,2026-11-05,15.65,2027-01-01,https://www.azica.gov/sites/default/files/2026-09/2027%20THE%20FAIR%20WAGES%20AND%20HEALTHY%20FAMILIES%20ACT_1.pdf
 Arkansas,AR,11.00,11.00,7.25,3.75,16.50,Employers with 4 or more employees.,https://labor.arkansas.gov/,2026-11-05,,,
 California,CA,16.90,16.90,7.25,9.65,25.35,,https://www.dir.ca.gov/dlse/,2026-11-05,17.40,2027-01-01,https://www.dir.ca.gov/DIRNews/2026/2026-66.html
@@ -21,7 +21,7 @@ Louisiana,LA,,7.25,7.25,0.00,10.88,No state minimum wage law.,https://www.lawork
 Maine,ME,15.10,15.10,7.25,7.85,22.65,,https://www.maine.gov/labor/,2026-11-05,15.70,2027-01-01,https://www.maine.gov/labor/news_events/article.shtml?id=13362373
 Maryland,MD,15.00,15.00,7.25,7.75,22.50,,https://www.labor.maryland.gov/,2026-11-05,,,
 Massachusetts,MA,15.00,15.00,7.25,7.75,22.50,,https://www.mass.gov/orgs/executive-office-of-labor-and-workforce-development,2026-11-05,,,
-Michigan,MI,13.73,13.73,7.25,6.48,20.60,Employers of 2 or more.,https://www.michigan.gov/leo,2026-11-05,15.00,2027-01-01,https://www.dol.gov/agencies/whd/minimum-wage/state
+Michigan,MI,13.73,13.73,7.25,6.48,20.60,Employers of 2 or more.,https://www.michigan.gov/leo,2026-11-05,15.00,2027-01-01,https://www.michigan.gov/leo/bureaus-agencies/ber/wage-and-hour/min-wage
 Minnesota,MN,11.41,11.41,7.25,4.16,17.12,,https://www.dli.mn.gov/,2026-11-05,11.87,2027-01-01,https://dli.mn.gov/news/minimum-wage-rate-adjusted-inflation-jan-1-2027
 Mississippi,MS,,7.25,7.25,0.00,10.88,No state minimum wage law.,https://www.mdes.ms.gov/,2026-11-05,,,
 Missouri,MO,15.00,15.00,7.25,7.75,22.50,"Retail or service businesses with sales under $500,000 are exempt.",https://labor.mo.gov/,2026-11-05,,,

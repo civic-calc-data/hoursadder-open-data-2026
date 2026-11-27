@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use these datasets in an article, report, or analysis, please cite HoursAdder as below."
 title: "HoursAdder Open Data 2026: US State Minimum Wages and Statutory Overtime Rules Across All 50 States and DC"
 type: dataset
-version: "2026.11"
-date-released: "2026-11-25"
+version: "2026.11.1"
+date-released: "2026-11-27"
 license: CC-BY-4.0
 url: "https://hoursadder.com/reports/"
 authors:

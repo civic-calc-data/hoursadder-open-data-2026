@@ -27,6 +27,7 @@ Key findings from [`data/us-state-minimum-wage-2026.csv`](data/us-state-minimum-
 | Connecticut (CT) | **$16.94** | +$9.69 | $25.41 |
 | California (CA) | **$16.90** | +$9.65 | $25.35 |
 | Hawaii (HI) | **$16.00** | +$8.75 | $24.00 |
+| New York (NY, upstate rate) | **$16.00** | +$8.75 | $24.00 |
 
 ---
 
